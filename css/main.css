@@ -1,0 +1,11 @@
+.half {
+    display: inline-block;
+    margin: 0 20px !important;
+    width: 45%;
+}
+
+.third {
+    display: inline-block;
+    margin: 0 10px !important;
+    width: 32%;
+}
